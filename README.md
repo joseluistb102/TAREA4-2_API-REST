@@ -1,4 +1,6 @@
-# Java CRUD with MongoDB
+Repositorio creado a partir de: https://github.com/upanshu21/mongodb-java-crud
+
+# Tarea 4.2: Creación de backend API REST
 
 This is a simple Java CRUD application using MongoDb. To run this project you need 
 	-MongoDB environment installed on your local machine
